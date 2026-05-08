@@ -1,0 +1,6 @@
+{
+  "mcp_version": "1.0",
+  "tool_name": "Tripoli_Weather_Fetch",
+  "description": "Fetches local data for AI agents",
+  "auth": "none"
+}
